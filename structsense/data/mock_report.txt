@@ -1,0 +1,15 @@
+# Structural Assessment Report
+**Project:** Seaside Hotel Extension Phase 2
+**Date:** Oct 24, 2024
+
+**Summary of Structure:**
+The proposed Seaside Hotel is a 18-story reinforced concrete building situated on a plot with sandy loam soil having a safe bearing capacity of 180 kN/m2. To counter erratic settlement, the structural design employs a Raft foundation laid at a depth of 3.2 meters. 
+
+**Material Specs:**
+The superstructure is modeled using High-Strength M40 grade concrete for core components. The steel reinforcement specified is TMT Fe500 grade. 
+
+**Component Dimensions:**
+Given the coastal winds, our wind modeling assumes a design wind speed of 180 km/h. To manage axial and lateral loads, the primary columns are designed with a cross-section of 600 mm width and 600 mm depth, maintaining a conservative reinforcement ratio of 3.5% (0.035). The floor slabs have a uniform thickness of 200 mm, while the connecting beams require a depth of 650 mm. The building features an expected continuous floor load of approximately 4.5 kN/m2. Structural shear walls are present around the central elevator core. 
+
+**Environmental & Risk Data:**
+The building is located in an area corresponding to IS Seismic Zone 4. The region receives an average annual rainfall of 1800 mm. The location risk index for this site is calculated to be 0.65. The building is newly proposed and currently has an age of 0 years.

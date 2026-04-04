@@ -1,0 +1,24 @@
+# Secrets — never commit these
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+
+# Model outputs
+outputs/models/
+outputs/reports/
+
+# IDE
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
