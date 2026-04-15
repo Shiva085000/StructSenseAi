@@ -16,8 +16,10 @@ AI-powered structural safety analysis using PPO Reinforcement Learning, IS 456/1
 From inside the `structsense/` directory, paste this command in your terminal:
 
 ```bash
-py -m streamlit run app.py
+py -V:Astral/CPython3.14.3 -m streamlit run app.py
 ```
+
+> **Note:** The project requires Python 3.14 (Astral/uv). Running with `py` alone may pick up Python 3.11, causing a NumPy compatibility error.
 
 The app will open at **http://localhost:8501**
 
